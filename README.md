@@ -1,4 +1,4 @@
-# 投放线 Cursor 技能仓库
+# Cursor Skill仓库
 
 这个项目整理了一套适合共享的 Cursor 技能与本地 MCP 工具，重点覆盖：
 
