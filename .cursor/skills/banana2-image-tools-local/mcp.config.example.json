@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "banana2-image-tools-local": {
+      "command": "python",
+      "args": [
+        "<项目根目录>\\.cursor\\skills\\banana2-image-tools-local\\mcp_server.py"
+      ]
+    }
+  }
+}
