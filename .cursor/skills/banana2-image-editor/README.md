@@ -9,7 +9,7 @@
 3. 共享 MCP 目录：
    - `<项目根目录>/.cursor/skills/banana2-image-tools-local`
 
-## 同事安装方式
+## 安装方式
 
 1. 同步整个项目目录。
 2. 安装共享 MCP 依赖：
