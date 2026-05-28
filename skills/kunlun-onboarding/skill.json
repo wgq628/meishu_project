@@ -1,0 +1,7 @@
+{
+  "name": "kunlun-onboarding",
+  "description": "昆仑系统的冷启动引导技能——帮助新AI Agent与它的用户从零建立昆仑系统。首次安装后自动引导用户走完初始信任建立、目录初始化、第一次L3变更流程。任何需要将昆仑部署到新Agent的场景使用此skill。触发词：昆仑启动、冷启动、onboarding、初始化、第一次使用。",
+  "author": "悟空 × 乾坤",
+  "version": "1.3.0",
+  "system": "昆仑"
+}

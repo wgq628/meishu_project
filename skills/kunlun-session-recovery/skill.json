@@ -1,0 +1,8 @@
+{
+  "name": "kunlun-session-recovery",
+  "version": "2.4.0",
+  "description": "昆仑会话寿命管理与转移技能。定义会话健康检测门控(24h/50轮/Symptom)、过渡摘要生成(含能力增量章节)、跨会话恢复协议。与 kunlun-governance 构成完整闭环。",
+  "system": "昆仑",
+  "dependencies": ["kunlun-governance (>=1.4.0)"],
+  "type": "protocol"
+}

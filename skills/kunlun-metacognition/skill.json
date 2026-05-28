@@ -1,0 +1,8 @@
+{
+  "name": "kunlun-metacognition",
+  "description": "昆仑系统的元认知自检技能——认知节律、自检五项/快速三项流程、自检报告格式、联结桥方法论、偏差反思。任何需要Agent周期性自我检查、认知连续性维护、跨模块联结发现的场景使用此skill。触发词：元认知、自检、认知节律、联结桥、偏差反思、系统心跳。",
+  "author": "悟空 × 乾坤",
+  "version": "1.4.0",
+  "system": "昆仑",
+  "type": "metacognition"
+}

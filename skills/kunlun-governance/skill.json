@@ -1,0 +1,8 @@
+{
+  "name": "kunlun-governance",
+  "description": "昆仑系统的变更管控核心——四级变更分级、变更卡/变更报告双文档制、L3 STAR门控流程、乾坤门审批机制。任何需要工程化管控AI Agent操作行为的场景使用此skill。触发词：变更管控、版本管理、变更卡、门控、乾坤门、审批流程。",
+  "author": "悟空 × 乾坤",
+  "version": "1.4.0",
+  "system": "昆仑",
+  "type": "governance"
+}

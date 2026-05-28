@@ -1,0 +1,7 @@
+{
+  "name": "kunlun-output-packaging",
+  "version": "2.2.0",
+  "description": "AI Agent分析会话的标准化产出封装规范——检查清单驱动的交付质检，防止版本漂移，确保知识完整捕获（insight card入库+仪表盘快照）。",
+  "system": "昆仑",
+  "type": "protocol"
+}

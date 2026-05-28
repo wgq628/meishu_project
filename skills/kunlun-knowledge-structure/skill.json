@@ -1,0 +1,8 @@
+{
+  "name": "kunlun-knowledge-structure",
+  "description": "昆仑系统的知识结构化技能——结构化命题记录格式、记忆索引模板、知识库版本号规范。任何需要Agent建立长程记忆结构、对知识进行版本管理、按场景检索工具的场景使用此skill。触发词：知识结构化、命题记录、记忆索引、版本号、知识治理、长程记忆。",
+  "author": "悟空 × 乾坤",
+  "version": "1.4.0",
+  "system": "昆仑",
+  "type": "infrastructure"
+}

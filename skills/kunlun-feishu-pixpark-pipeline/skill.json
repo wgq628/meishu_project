@@ -1,0 +1,7 @@
+{
+  "name": "kunlun-feishu-pixpark-pipeline",
+  "description": "飞书项目到PixPark出图流水线：读取Meegle需求、提取平面描述和参考图、执行图生图/参考图生图、回传本地预览。",
+  "author": "Kunlun",
+  "version": "0.1.0",
+  "system": "昆仑"
+}

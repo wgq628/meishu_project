@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kunlun Feishu PixPark Pipeline"
+  short_description: "From Feishu requirements to PixPark image generation workflow"
+  default_prompt: "Read a Feishu project link, extract flat-design requirements and references, then run PixPark image-to-image generation and return local previews."

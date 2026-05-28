@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "skills": {
+    "kunlun-ecosystem": {
+      "name": "昆仑生态技能包",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-ecosystem",
+      "source": "community",
+      "version": "1.2.0",
+      "installedAt": "2026-05-28T14:42:16Z"
+    },
+    "kunlun-core": {
+      "name": "昆仑生态基座",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-core",
+      "source": "community",
+      "version": "1.1.0",
+      "installedAt": "2026-05-28T14:44:58Z"
+    },
+    "kunlun-academy": {
+      "name": "昆仑学院",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-academy",
+      "source": "community",
+      "version": "1.4.0",
+      "installedAt": "2026-05-28T14:45:05Z"
+    },
+    "kunlun-dashboard": {
+      "name": "昆仑仪表盘",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-dashboard",
+      "source": "community",
+      "version": "2.6.0",
+      "installedAt": "2026-05-28T14:45:07Z"
+    },
+    "kunlun-governance": {
+      "name": "昆仑管控中心",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-governance",
+      "source": "community",
+      "version": "1.4.0",
+      "installedAt": "2026-05-28T14:45:09Z"
+    },
+    "kunlun-knowledge-structure": {
+      "name": "昆仑知识组织规范",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-knowledge-structure",
+      "source": "community",
+      "version": "1.4.0",
+      "installedAt": "2026-05-28T14:45:11Z"
+    },
+    "kunlun-metacognition": {
+      "name": "昆仑元认知管理",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-metacognition",
+      "source": "community",
+      "version": "1.4.0",
+      "installedAt": "2026-05-28T14:45:13Z"
+    },
+    "kunlun-onboarding": {
+      "name": "昆仑新手引导",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-onboarding",
+      "source": "community",
+      "version": "1.3.0",
+      "installedAt": "2026-05-28T14:45:15Z"
+    },
+    "kunlun-output-packaging": {
+      "name": "昆仑生产管理",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-output-packaging",
+      "source": "community",
+      "version": "2.2.0",
+      "installedAt": "2026-05-28T14:45:16Z"
+    },
+    "kunlun-session-recovery": {
+      "name": "昆仑会话管理",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=kunlun-session-recovery",
+      "source": "community",
+      "version": "2.4.0",
+      "installedAt": "2026-05-28T14:45:18Z"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "kunlun-dashboard",
+  "version": "2.6.0",
+  "description": "昆仑·全视 系统可观测性仪表盘生成器 v3.0——7 Tab(总览/环境/Agent/定时任务/技能/流水线/Token/昆仑)，技能分类筛选，流水线可展开详情，Token日趋势图，昆仑数据全维度统计。",
+  "system": "昆仑",
+  "dependencies": ["kunlun-knowledge-structure (≥1.4.0)", "kunlun-output-packaging (≥2.2.0)"],
+  "type": "tool"
+}
